@@ -1,0 +1,15 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\bin\Debug\TemplateLesson.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\bin\Debug\TemplateLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\bin\Debug\TemplateLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\TemplateLesson\TemplateLesson\obj\Debug\App.baml
